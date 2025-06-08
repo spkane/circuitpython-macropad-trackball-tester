@@ -1,0 +1,18 @@
+{
+  "python.languageServer": "Pylance",
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportMissingModuleSource": "none",
+    "reportShadowedImports": "none"
+  },
+  "circuitpython.board.version": "9.2.8",
+  "circuitpythonsync.curlibtag": "20250606",
+  "circuitpythonsync.cpbaseversion": "9",
+  "circuitpythonsync.cpfullversion": "9.2.8",
+  "python.analysis.extraPaths": [
+    "",
+    "/Users/spkane/.vscode/extensions/wmerkens.vscode-circuitpython-v2-cursor-ai-0.3.3/stubs",
+    "/Users/spkane/Library/Application Support/Code/User/globalStorage/wmerkens.vscode-circuitpython-v2-cursor-ai/bundle/20250606/adafruit-circuitpython-bundle-py-20250606/lib",
+    "/Users/spkane/Desktop/CIRCUITPY-local/libArchive/libstubs",
+    "/Users/spkane/Library/Application Support/Code/User/globalStorage/padgettholdings.circuitpythonsync/stubs/circuitpython_stubs-9.2.8"
+  ]
+}
